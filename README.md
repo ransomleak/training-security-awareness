@@ -4,7 +4,7 @@
 
 ![demo](/Assets/demo.gif)
 
-🔗 **[Browse the full library →](https://ransomleak.com/learning)** &nbsp;|&nbsp; 🎮 **[Try a live demo →](https://ransomleak.com/exercises/phishing/)**
+👥 **[Talk to the Founders](https://ransomleak.com/contact-us/)**  &nbsp;|&nbsp; 🔗 **[Browse the Full Library](https://ransomleak.com/learning)** &nbsp;|&nbsp; 🎮 **[Try a live demo](https://ransomleak.com/exercises/phishing/)**
 
 ---
 
@@ -46,6 +46,32 @@ This library is licensed under [CC BY-NC 4.0][cc-by-nc]. Free to use and share w
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+---
+
+## The Complete Security Awareness Stack
+
+### For Your Company
+
+We also ship an **[enterprise-grade cloud LMS](https://ransomleak.com/features/)** with all the content on board. So if you'd like to get the training without the headache of installing / managing your LMS, **[drop us a line](https://ransomleak.com/contact-us/)**. LMS functionality includes, but is not limited to:
+
+- **Campaigns & automation** — recurring training programs, auto-enrollment by role or risk level, custom learning paths, and automated reminders that escalate to managers
+- **Phishing & smishing simulations** — direct mailbox injection via the M365 Graph API and Google Workspace (no spam-filter fights), full-funnel tracking from delivery to report, and auto-remediation that assigns targeted exercises on failure
+- **Human Risk Score & analytics** — a 0–100 risk score per employee, real-time dashboards, and risk-based automation to remediate your riskiest users first
+- **Compliance reporting** — audit-ready reports for SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, NIS2, and the EU AI Act, exportable to PDF, CSV, or Excel on a schedule
+- **Enterprise integrations** — SSO (SAML 2.0, OAuth 2.0, OIDC — works with Okta, Azure AD, Google Workspace) with SCIM provisioning from your IdP, plus Slack & Teams notifications, calendar sync, SIEM export (Splunk, Sentinel, QRadar), and a full API with webhooks
+- **Your content too** — upload PDFs, videos, slides alongside RansomLeak exercises, or have scenarios custom-built around your industry and policies
+
+### For MSPs
+
+The LMS is multi-tenant by design, built for managing an entire book of business from one place:
+
+- **Sub-tenant provisioning** — spin up isolated tenants for each client, with per-tenant license management and consolidated reporting across your whole portfolio
+- **White-labeling & distribution** — your logo, custom domain, client's branding. Deliver via per-tenant SCORM packages or hosted tenants
+- **MSP-grade content** — exercises calibrated for the threats MSPs face: RMM/PSA credential phishing, help-desk vishing, MFA push fatigue, ransomware first-hour response, and BEC
+- **Compliance leverage** — per-employee completion records that satisfy CIS Controls 4.4, CMMC 2.0, SOC 2, and the evidence cyber-insurance carriers now demand at renewal
+
+If you're interested, please feel free to **[reach out to us](https://ransomleak.com/contact-us/)**
 
 ---
 
