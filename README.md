@@ -1,62 +1,64 @@
-# Free Interactive Security Training Library
+# Free Security Awareness Training for Employees — Open Source Interactive SCORM Library
 
-**100+ free hands-on SCORM exercises** covering security awareness, GDPR, AI security, and more. Built for people who want to retain what they learn and share with others.
+**100+ free, open-source security awareness training exercises for employees** — hands-on, interactive SCORM modules covering phishing awareness training, GDPR, AI security, and more. Built for people who want to retain what they learn and share it with others.
 
-![demo](/Assets/demo.gif)
+![Interactive security awareness training demo — first-person phishing awareness exercise in a 3D office](/Assets/demo.gif)
 
-👥 **[Talk to the Founders](https://ransomleak.com/contact-us/)**  &nbsp;|&nbsp; 🔗 **[Browse the Full Library](https://ransomleak.com/learning)** &nbsp;|&nbsp; 🎮 **[Try a live demo](https://ransomleak.com/exercises/phishing/)**
+👥 **[Talk to the Founders](https://ransomleak.com/contact-us/)**  &nbsp;|&nbsp; 🔗 **[Browse the Full Library](https://ransomleak.com/learning)** &nbsp;|&nbsp; 🎮 **[Try a live phishing awareness demo](https://ransomleak.com/exercises/phishing/)**
+
 
 ---
 
-## Why this exists
+## Why this free security awareness training is different
 
 Most security awareness training is forgettable: boring slide decks, soulless videos, and lately, AI-generated materials that turn people off. The problem isn't the content itself — it's the format, because passive learning doesn't build habits. People sit through a 10-minute video, click "Complete," and remember nothing when it matters.
 
-**This library takes a different approach.**
+**This free, open-source security awareness training library takes a different approach.**
 
 Every exercise drops you into an interactive 3D office environment where you face realistic incidents in first-person. You interact with real objects — a phone, a PC running a live OS (browser, terminal, Zoom), a flipchart — and make decisions under pressure, just like you would at your desk.
 
 Scenarios include things like:
 
-- Spotting phishing indicators in a suspicious email
-- Handling a scam phone call (vishing) in real time
-- Downloading a malicious file and watching the consequences unfold
+- **Phishing awareness training for employees** — spotting phishing indicators in a suspicious email
+- **Vishing simulation** — handling a scam phone call in real time
+- **Malware response** — downloading a malicious file and watching the consequences unfold
+- **Smishing, MFA fatigue, and BEC** — the social-engineering attacks employees face daily
 
 The goal is to build muscle memory so that when something bad is about to happen at work, people remember having faced it before — and respond accordingly. Every exercise ends with a quiz at a 100% pass threshold to confirm the knowledge is stuck.
 
 ---
 
-## Format
+## Format: SCORM security awareness training modules, ready for any LMS
 
-Every exercise is a **SCORM .zip file** — ready to import into any LMS, embed into your existing training pipeline, or test on [SCORM Cloud](https://cloud.scorm.com/) before rollout.
+Every exercise is a **SCORM .zip file** — ready to import into any LMS, embed into your existing training pipeline, or test on [SCORM Cloud](https://cloud.scorm.com/) before rollout. That makes this one of the easiest free security awareness training options to deploy across a whole workforce.
 
 The repo root contains full course packages. The `Individual Exercises` folder contains standalone exercises if you want to build a custom curriculum.
 
-**The content is fully white-labeled** — no logos, no backlinks, no strings attached. Use it however you like, more on this below.
+**The content is fully white-labeled** — no logos, no backlinks, no strings attached. Use it however you like; more on this below.
 
 ---
 
-## Usage & License
+## Usage & License: free to use for employee security awareness training
 
 You're free to use, embed, and teach with this content — personally, professionally, or commercially in workshops. Redistributing or reselling the content as a standalone product is prohibited.
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-This library is licensed under [CC BY-NC 4.0][cc-by-nc]. Free to use and share with attribution. Commercial resale of the content is prohibited.
+This open-source security awareness training library is licensed under [CC BY-NC 4.0][cc-by-nc]. Free to use and share with attribution. Commercial resale of the content is prohibited.
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 ---
 
-## The Complete Security Awareness Stack
+## The Complete Security Awareness Training Stack
 
 ### For Your Company
 
-We also ship an **[enterprise-grade cloud LMS](https://ransomleak.com/features/)** with all the content on board. So if you'd like to get the training without the headache of installing / managing your LMS, **[drop us a line](https://ransomleak.com/contact-us/)**. LMS functionality includes, but is not limited to:
+We also ship an **[enterprise-grade cloud LMS](https://ransomleak.com/features/)** with all the security awareness training content on board. So if you'd like to get the training without the headache of installing / managing your LMS, **[drop us a line](https://ransomleak.com/contact-us/)**. LMS functionality includes, but is not limited to:
 
 - **Campaigns & automation** — recurring training programs, auto-enrollment by role or risk level, custom learning paths, and automated reminders that escalate to managers
-- **Phishing & smishing simulations** — direct mailbox injection via the M365 Graph API and Google Workspace (no spam-filter fights), full-funnel tracking from delivery to report, and auto-remediation that assigns targeted exercises on failure
+- **Phishing & smishing simulations** — direct mailbox injection via the M365 Graph API and Google Workspace (no spam-filter fights), full-funnel tracking from delivery to report, and auto-remediation that assigns targeted phishing awareness training on failure
 - **Human Risk Score & analytics** — a 0–100 risk score per employee, real-time dashboards, and risk-based automation to remediate your riskiest users first
 - **Compliance reporting** — audit-ready reports for SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, NIS2, and the EU AI Act, exportable to PDF, CSV, or Excel on a schedule
 - **Enterprise integrations** — SSO (SAML 2.0, OAuth 2.0, OIDC — works with Okta, Azure AD, Google Workspace) with SCIM provisioning from your IdP, plus Slack & Teams notifications, calendar sync, SIEM export (Splunk, Sentinel, QRadar), and a full API with webhooks
@@ -64,11 +66,11 @@ We also ship an **[enterprise-grade cloud LMS](https://ransomleak.com/features/)
 
 ### For MSPs
 
-The LMS is multi-tenant by design, built for managing an entire book of business from one place:
+The LMS is multi-tenant by design, built for delivering security awareness training across an entire book of business from one place:
 
 - **Sub-tenant provisioning** — spin up isolated tenants for each client, with per-tenant license management and consolidated reporting across your whole portfolio
 - **White-labeling & distribution** — your logo, custom domain, client's branding. Deliver via per-tenant SCORM packages or hosted tenants
-- **MSP-grade content** — exercises calibrated for the threats MSPs face: RMM/PSA credential phishing, help-desk vishing, MFA push fatigue, ransomware first-hour response, and BEC
+- **MSP-grade content** — phishing awareness training and exercises calibrated for the threats MSPs face: RMM/PSA credential phishing, help-desk vishing, MFA push fatigue, ransomware first-hour response, and BEC
 - **Compliance leverage** — per-employee completion records that satisfy CIS Controls 4.4, CMMC 2.0, SOC 2, and the evidence cyber-insurance carriers now demand at renewal
 
 If you're interested, please feel free to **[reach out to us](https://ransomleak.com/contact-us/)**
@@ -338,3 +340,5 @@ If you're interested, please feel free to **[reach out to us](https://ransomleak
 4. [**ISMS Policy Awareness**](https://ransomleak.com/exercises/isms-policy-awareness/) — Connect ISO 27001 policies to your daily work. Match ISMS policies to real work situations, understand the ISO 27001 policy structure, spot gaps between policy and daily practice.
 
 5. [**Internet & Email Acceptable Use**](https://ransomleak.com/exercises/internet-email-acceptable-use/) — Stay within corporate internet and email policies. Recognize risky email forwarding behaviors, understand personal device boundaries at work, avoid common acceptable use violations
+
+**Topics:** security awareness training · free security awareness training · free security awareness training for employees · open source security awareness training · phishing awareness training for employees · free phishing awareness training · security awareness training for employees · cyber security awareness training · employee security awareness training · SCORM security awareness training · phishing simulation · GDPR training · human risk management
