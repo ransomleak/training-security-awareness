@@ -319,8 +319,6 @@ If you're interested, please feel free to **[reach out to us](https://ransomleak
 
 ### Real-World Incidents
 
-
-
 1. [**MGM Resorts Breach**](https://ransomleak.com/exercises/mgm-resorts-security-breach/) — Relive the 10-minute helpdesk call that cost $100M by tracing the Scattered Spider attack chain from LinkedIn reconnaissance through a vishing call to ALPHV/BlackCat ransomware deployment.
 
 2. [**OneNote Email Attack**](https://ransomleak.com/exercises/onenote-email-attack/) — Trace a real BEC scam built on weeks of inbox surveillance by receiving a lookalike-domain invoice redirect that uses real project details and the exact right amount to defeat scrutiny.
@@ -328,8 +326,6 @@ If you're interested, please feel free to **[reach out to us](https://ransomleak
 ---
 
 ### Security Policies & Your Role
-
-
 
 1. [**Audit Mindset Basics**](https://ransomleak.com/exercises/audit-mindset-basics/) — Think like an auditor to find compliance gaps before external reviewers do by checking whether password policies match real behavior, verifying access reviews, and identifying gaps between written procedures and daily operations.
 
@@ -340,5 +336,28 @@ If you're interested, please feel free to **[reach out to us](https://ransomleak
 4. [**ISMS Policy Awareness**](https://ransomleak.com/exercises/isms-policy-awareness/) — Connect ISO 27001 policies to your daily work. Match ISMS policies to real work situations, understand the ISO 27001 policy structure, spot gaps between policy and daily practice.
 
 5. [**Internet & Email Acceptable Use**](https://ransomleak.com/exercises/internet-email-acceptable-use/) — Stay within corporate internet and email policies. Recognize risky email forwarding behaviors, understand personal device boundaries at work, avoid common acceptable use violations
+
+---
+
+### EU AI Act Compliance
+
+1. [**AI Literacy Essentials**](https://ransomleak.com/exercises/ai-literacy-essentials/) — Earn the AI literacy required by Article 4 before touching company AI tools by applying Article 4 literacy requirements, spotting AI hallucinations and confabulations, and protecting company data inside AI chatbots.
+2. [**AI Risk Classification**](https://ransomleak.com/exercises/ai-risk-classification/) — Sort real AI deployments into the four EU AI Act risk tiers by applying Article 5 and Annex III correctly, distinguishing high-risk from limited-risk systems, and documenting classification reasoning for audit.
+3. [**Prohibited AI Practices**](https://ransomleak.com/exercises/prohibited-ai-practices/) — Stop banned AI deployments before they go live by recognizing the six Article 5 prohibitions, pushing back on consent-based exception arguments, and escalating prohibited practices to legal and the DPO.
+4. [**High-Risk AI Deployer Obligations**](https://ransomleak.com/exercises/high-risk-ai-obligations/) — Block a high-risk AI launch with compliance gaps in any of seven areas by running an Article 26 deployer compliance review, verifying meaningful human oversight rather than just accuracy, and demanding a FRIA before first use.
+5. [**Provider vs. Deployer Responsibilities**](https://ransomleak.com/exercises/provider-vs-deployer/) — Learn why a compliant vendor product does not make your deployment compliant by mapping provider versus deployer obligations, reading vendor conformity assessments critically, and planning deployer-side controls during procurement.
+6. [**AI Transparency and Disclosure**](https://ransomleak.com/exercises/ai-transparency-and-disclosure/) — Label AI chatbots and synthetic media correctly under Article 50 by applying chatbot disclosure rules, tagging AI-generated, AI-assisted, and synthetic media appropriately, and distinguishing legal disclosure obligations from optional labels.
+7. [**Meaningful Human Oversight**](https://ransomleak.com/exercises/meaningful-human-oversight/) — Override an AI loan recommendation when the evidence does not match by resisting automation bias on every decision, applying independent judgment under Article 14, and escalating suspect AI outputs through real authority.
+8. [**AI Data Governance**](https://ransomleak.com/exercises/ai-data-governance/) — Block AI training that uses a leaky, biased, or oversharing dataset by applying Article 10 training data standards, finding data leakage that inflates accuracy, and enforcing data minimization across the pipeline.
+9. [**AI and Data Protection**](https://ransomleak.com/exercises/ai-and-data-protection/) — Run a healthcare AI through both the EU AI Act and GDPR at once by stacking obligations from both frameworks, applying Article 22 to automated triage decisions, and running a DPIA and a FRIA in parallel.
+10. [**AI Bias and Discrimination**](https://ransomleak.com/exercises/ai-bias-and-discrimination/) — Investigate proxy variables hiding inside a resume-screening model by reading demographic parity and equalized odds metrics, tracing proxy variables that create indirect discrimination, and suspending a biased high-risk model rather than tuning it.
+11. [**Fundamental Rights Impact Assessment**](https://ransomleak.com/exercises/fundamental-rights-impact-assessment/) — Run a FRIA before a social housing AI ever assigns a benefit decision by applying Article 27 to a high-risk deployment, separating FRIA scope from a GDPR DPIA, and defining monitoring measures and review cadence.
+12. [**AI Incident Reporting**](https://ransomleak.com/exercises/ai-incident-reporting/) — Report a discriminatory AI rejection pattern under Article 62 by applying the serious-incident threshold, containing and investigating before filing inside the deadline, and resisting vendor pressure to delay the report.
+13. [**AI Governance in Your Organization**](https://ransomleak.com/exercises/ai-governance-in-your-organization/) — Build an AI registry and shut down shadow AI in your company by standing up an AI systems registry from scratch, assigning system owners and compliance duties, and addressing shadow AI as a governance failure rather than an IT nuisance.
+14. [**General-Purpose AI Model Obligations**](https://ransomleak.com/exercises/general-purpose-ai-models/) — Map GPAI provider and downstream deployer duties for systemic-risk models by telling baseline GPAI apart from systemic-risk GPAI, reading training data summaries critically, and following value-chain duties down to your own deployer obligations.
+15. [**Using AI Tools Responsibly at Work**](https://ransomleak.com/exercises/responsible-ai-use-at-work/) — Make compliant AI choices through a normal working day by using only approved AI tools with valid DPAs, classifying data before pasting it into any AI, and disclosing AI assistance in your deliverables.
+16. [**EU AI Act Penalties and Enforcement**](https://ransomleak.com/exercises/ai-act-penalties-and-enforcement/) — Map the three-tier penalty structure to real enforcement scenarios by applying the right penalty tier to each violation, separating AI Office and national authority roles, and understanding personal liability for individuals.
+
+
 
 **Topics:** security awareness training · free security awareness training · free security awareness training for employees · open source security awareness training · phishing awareness training for employees · free phishing awareness training · security awareness training for employees · cyber security awareness training · employee security awareness training · SCORM security awareness training · phishing simulation · GDPR training · human risk management
