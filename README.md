@@ -1,6 +1,6 @@
 # Free Security Awareness Training for Employees — Open Source Interactive SCORM Library
 
-**100+ free, open-source security awareness training exercises for employees** — hands-on, interactive SCORM modules covering phishing awareness training, GDPR, AI security, and more. Built for people who want to retain what they learn and share it with others.
+**130+ free, open-source security awareness training exercises for employees** — hands-on, interactive SCORM modules covering phishing awareness training, GDPR, AI security, and more. Built for people who want to retain what they learn and share it with others.
 
 ![Interactive security awareness training demo — first-person phishing awareness exercise in a 3D office](/Assets/demo.gif)
 
